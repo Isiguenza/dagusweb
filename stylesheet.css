@@ -1,0 +1,72 @@
+.fila {
+    
+    width: 100%; height: 25%;
+    background-color: red;
+    display: flex;
+}
+
+.noflex {
+    
+    width: 100%; height: 25%;
+    background-color: red;
+}
+
+#barra {
+    height: 10%;
+    background-color: darkcyan;
+    
+}
+
+#portada {
+   
+height: 50%;
+background-color: aquamarine;    
+}
+
+.columna {
+    height: 100%; 
+}
+
+#logo {
+    width: 20%;
+    background-color: blue;
+}
+
+#sesion {
+   width: 80%;
+    background-color: blueviolet;
+    
+}
+
+.fila-interna {
+    width: 100%; height: 50%;
+  
+        
+}
+
+.columna3-centro {
+    width: 50%
+}
+
+.columna3-lateral {
+    width: 25%
+}
+
+
+.columna5 {
+    width: 20%;
+        
+}
+
+#imagen {
+   
+   width: 80%; height: 80%;
+    margin: auto;
+    display:block;
+}
+
+.columna-central {
+    height: 100%; width: 50%;
+    margin-left: auto; margin-right: auto;
+    background-color: chartreuse;
+}
